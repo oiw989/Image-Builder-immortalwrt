@@ -86,3 +86,10 @@ jobs:
       with:
         retain_days: 0
         keep_minimum_runs: 2
+        
+    - name: Push to B
+      run: |
+          curl -X POST https://api.github.com/repos/oiw989/你的B仓库名/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.MY_GITHUB_TOKEN }}" \
+          -d '{"event_type": "rootfs_ready"}'

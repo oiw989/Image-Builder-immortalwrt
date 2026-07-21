@@ -17,7 +17,6 @@ luci-app-diskman
 luci-i18n-diskman-zh-cn
 luci-i18n-firewall-zh-cn
 luci-app-openclash
-luci-i18n-opkg-zh-cn
 luci-app-ramfree
 luci-i18n-ramfree-zh-cn
 luci-app-samba4

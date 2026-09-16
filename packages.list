@@ -16,6 +16,7 @@ luci-i18n-autoreboot-zh-cn
 luci-app-diskman
 luci-i18n-diskman-zh-cn
 luci-i18n-firewall-zh-cn
+luci-app-keepalived
 luci-app-openclash
 luci-i18n-opkg-zh-cn
 luci-app-ramfree

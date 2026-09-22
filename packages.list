@@ -18,6 +18,8 @@ luci-i18n-diskman-zh-cn
 luci-app-dockerman
 luci-i18n-dockerman-zh-cn
 luci-i18n-firewall-zh-cn
+luci-app-keepalived
+luci-i18n-keepalived-zh-cn
 luci-app-openclash
 luci-i18n-opkg-zh-cn
 luci-app-ramfree
